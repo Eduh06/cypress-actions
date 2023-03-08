@@ -28,5 +28,5 @@ yarn cypress run / npx cypress run
 ```
 
 <hr>
-Curso disponível em https://qaxperience.com
+
 
