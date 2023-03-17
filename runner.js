@@ -8,7 +8,7 @@ cypress.run({
 })
 .then((results) => {
   const args = {
-    target: 'TOKEN',    //Token gerado ao criar projeto
+    target: TOKEN,    //Token gerado ao criar projeto
   }
   tesults.results(results, args);
 })
